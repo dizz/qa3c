@@ -1,8 +1,8 @@
 ![Quality Assurance in the Context of Cloud Computing](logo.png)
 
-# Quality Assurance in the Context of Cloud Computing
+# Quality Assurance in the Context of Cloud Computing 2018
 
-***A Utility and Cloud Computing Workshop***
+***[A Utility and Cloud Computing (UCC) Workshop](http://ucc-conference.org)***
 
 One of the key properties of cloud technologies is their promise for scalability, resilience, along with the ability to use many services provided and managed by cloud providers. During the last years the release of a mature set of technologies enabled the possibility to experiment new concepts and scenarios, however there is still a lack of consolidated methods tackling quality assurance of Cloud solutions by systematically influencing the analysis, the design, and the validation of Cloud-based Platforms and Services. In fact, being able to scale on-demand, or to monitor the status of a virtual resource do not contribute per-se to the quality of a solution.  On one side, Cloud-based Platforms and Services might need to be conceived in order to properly ensure desired sets of quality attributes. On the other side, quality enablers tools (e.g. code generators, policy enforcement modules, verification frameworks, testing tools, monitoring and reporting suites) need to be brought to the cloud, and they also need to be aware of the cloud in order to assess target quality aspects.
 
