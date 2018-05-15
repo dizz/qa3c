@@ -43,11 +43,15 @@ The targeted audience includes researchers, professionals and practitioners work
 
 ## Submission
 
-If you want to submit your paper to QA3C then please do so using EasyChair.
+If you want to submit your paper to QA3C then please do so using EasyChair.  All workshop papers are a **maximum** of 6 pages in length (in IEEE format). Additional pages may be purchased (in some circumstances) subject to approval by the proceedings chair.
 
 Successful submissions will be published by the [IEEE](http://www.ieee.org) in the same volume as [UCC18](http://ucc-conference.org).
 
+At least one author of each accepted submission must attend the workshop and that all workshop participants must pay the UCC 2018 workshop day registration fee or the conference fee.
+
 ## Organisation
+
+All papers will be reviewed by the Technical Program Committee with a minimum of 3 reviews per paper. 
 
 **Co-chairs:**
 
