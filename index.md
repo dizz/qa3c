@@ -1,6 +1,6 @@
 ![Quality Assurance in the Context of Cloud Computing](logo.png)
 
-# Quality Assurance in the Context of Cloud Computing 2018
+# Quality Assurance in the Context of Cloud Computing 2018, Zürich Switzerland.
 
 ***[A Utility and Cloud Computing (UCC) Workshop](http://ucc-conference.org)***
 
