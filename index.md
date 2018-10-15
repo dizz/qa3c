@@ -11,9 +11,9 @@ One of the key properties of cloud technologies is their promise for scalability
 **Key Dates:**
 
 * **Submission Deadline**: ~~3rd September 2018 (03.09.2018)~~ **19th September 2018 (19.09.2018)** -- <u>EXTENDED!!</u> 
-* **Notification to Authors**: ~~September 26th 2018 (26.09.2018)~~ **5th October 2018 (05.10.2018)** -- <u>EXTENDED!!</u> 
-* **Camera Ready Paper and Registration**: ~~8th October 2018 (08.10.2018)~~ **15th October 2018 (15.10.2018)** -- <u>EXTENDED!!</u> 
-* **Workshop**: TBD - UCC runs from 17th to the 20th of December (17-20.12.2018)
+* **Notification to Authors**: ~~September 26th 2018 (26.09.2018) **5th October 2018 (05.10.2018)**~~
+* **Camera Ready Paper and Registration**: ~~8th October 2018 (08.10.2018) **15th October 2018 (15.10.2018)**~~
+* **Workshop**: **19th of December (19.12.2018)**
 
 ## Objectives
 
