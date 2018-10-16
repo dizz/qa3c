@@ -30,9 +30,12 @@ Given the objectives of QA3C, the topics of interest of the QA3C workshop includ
 * Autonomic techniques for QA in the context of Cloud-based Platform and Services
 * Cloud-based Testing (i.e. in the cloud, for the cloud, of the cloud)
 * Configuration management in testingPerformance testing of scalable applications
-* Security testing in cloud-native applicationsFunctional testing of cloud-native applications
-* Test architectures for cloud-based testingChaos engineering in testing
-* Test orchestration for complex testing suitesTest support services
+* Security testing in cloud-native applications
+* Functional testing of cloud-native applications
+* Test architectures for cloud-based testing
+* Chaos engineering in testing
+* Test orchestration for complex testing suites
+* Test support services
 * Multi-layered analysis techniques for cloud infrastructures
 * IT Operations and Governance supporting infrastructure in Cloud Computing
 * Trustworthiness in Cloud Platform and Services at run time
