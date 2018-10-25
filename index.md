@@ -77,4 +77,4 @@ All papers will be reviewed by the Technical Program Committee with a minimum of
 
 # Supported By
 
-[![elastest](./elastest.png)](http://www.elastest.io)
+![elastest](./elastest.png)](http://www.elastest.io)
