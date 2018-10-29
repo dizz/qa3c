@@ -1,4 +1,4 @@
-** Message from the Workshop Chairs QA3C 2018**
+**Message from the Workshop Chairs QA3C 2018**
 
 ![qa3clogo](logo.png)
 

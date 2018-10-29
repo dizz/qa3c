@@ -19,6 +19,12 @@ One of the key properties of cloud technologies is their promise for scalability
 
 The UCC QA3C workshop aims to bring together researchers from both Academia and Industry with the aim of sharing ideas, perspective and approaches supporting the engineering of a new generation Cloud-based Platforms and Services. Proceedings will be published by the [IEEE](http://www.ieee.org) in the same volume as [UCC18](http://ucc-conference.org).
 
+## Agenda
+
+The agenda of the QA3C workshop is available and is as following:
+
+![agenda](agenda.png)
+
 ## Topics of Interest
 
 Given the objectives of QA3C, the topics of interest of the QA3C workshop include, but are not limited to:
