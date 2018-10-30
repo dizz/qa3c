@@ -25,6 +25,10 @@ The agenda of the QA3C workshop is available and is as following:
 
 ![agenda](agenda.png)
 
+## Keynote
+
+The co-chairs are glad to host in the program of the QA3C workshop a keynote on "Observability in Testing" for Cloud-based Platforms and Services. The keynote is given by Dr. Francisco Gortázar available from Universidad Rey Juan Carlos; further details can be found at: [http://ucc-conference.org/speakers.html](http://ucc-conference.org/speakers.html).
+
 ## Topics of Interest
 
 Given the objectives of QA3C, the topics of interest of the QA3C workshop include, but are not limited to:
@@ -83,4 +87,4 @@ All papers will be reviewed by the Technical Program Committee with a minimum of
 
 # Supported By
 
-![elastest](./elastest.png)](http://www.elastest.io)
+![elastest](./elastest.png)(http://www.elastest.io)
